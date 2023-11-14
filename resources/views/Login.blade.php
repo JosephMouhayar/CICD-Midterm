@@ -4527,7 +4527,7 @@
                     <a class="hiddenanchor" id="toregister"></a>
                     <a class="hiddenanchor" id="tologin"></a>
                     <div id="wrapper">
-                        <div id="login" class="animate form">
+                        <div id="login" class="animate form" >
                             <form  action="/welcome" autocomplete="on" method="post"> 
                                 @csrf
                                 <h1>Log in</h1> 
